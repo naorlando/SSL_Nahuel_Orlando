@@ -1,6 +1,1 @@
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
+“Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes”
